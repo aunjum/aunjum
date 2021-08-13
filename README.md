@@ -18,8 +18,5 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunjum&layout=compact" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aunjum" />
-</a>
 
 

@@ -1,15 +1,14 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=aunjum&margin-w=15&theme=discord)
 
 ### Konichiwa 👋, I'm Tanvir Aunjum
-![Linkedin Badge](https://img.shields.io/badge/-tanvir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdtanvir/)
-![Medium Badge](https://img.shields.io/badge/-@tanvir-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)
-![Gmail Badge](https://img.shields.io/badge/-tanviraunjum030@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aunjum.uxbd@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-tanvir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-tanvir-aunjum/)
+![Gmail Badge](https://img.shields.io/badge/-aunjum.uxbd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aunjum.uxbd@gmail.com)
 
-💼 [@Ultra-X Inc.](https://www.uxd.co.jp/) since January, 2021.
+💼 [@Ultra-X](https://www.uxd.co.jp/) since January, 2021.
 
-🔭 Tinkering with Flutter, React, C#, Rust 😒...
+🔭 Tinkering with Flutter, React, C++, Rust 😒...
 
-💻 Can read, write and think on Android, Web, Server.
+💻 Can read, write and think on Android, Web, Server, Cyber Security.
 
 🌱 Trying to learn Architecture and Systems.
 

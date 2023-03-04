@@ -1,3 +1,5 @@
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=dd42804235ee&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=aunjum&margin-w=15&theme=discord)
 
 ### Konichiwa 👋, I'm Tanvir Aunjum

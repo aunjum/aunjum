@@ -1,5 +1,27 @@
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=dd42804235ee&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+
+<p align="center">
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/GitHub-aunjum-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-aunjum-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+<p align="center">
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+</p>
+
+<p align="center">
+<a href="[https://github.com/noob-hackers/grabcam](https://github.com/aunjum/python-design-pattern-for-kids)">
+<img title="python-design-pattern-for-kids" src="https://github-readme-stats.vercel.app/api/pin/?username=aunjum&repo=python-design-pattern-for-kids&theme=radical">
+</a>
+<a href="https://github.com/aunjum/production_grade_python"><img title="production_grade_python" src="https://github-readme-stats.vercel.app/api/pin/?username=aunjum&repo=production_grade_python&theme=highcontrast"></a>
+<a href="https://github.com/aunjum/project_xxx_loot"><img title="project_xxx_loot" src="https://github-readme-stats.vercel.app/api/pin/?username=aunjum&repo=project_xxx_loot&theme=vision-friendly-dark"></a>
+<a href="https://github.com/aunjum/rust-mongodb-rest-api"><img title="rust-mongodb-rest-api" src="https://github-readme-stats.vercel.app/api/pin/?username=aunjum&repo=rust-mongodb-rest-api&theme=highcontrast"></a>
+</p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=aunjum&margin-w=15&theme=discord)
 
 ### Konichiwa 👋, I'm Tanvir Aunjum
@@ -36,11 +58,16 @@
 </br>
 </br>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aunjum&show_icons=true&&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunjum&layout=compact"/>
-</a>
+<p align="center">
+  <a href="https://github.com/aunjum">
+    <img title="Aunjum" src="https://github-readme-stats.vercel.app/api?username=aunjum&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aunjum">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunjum&layout=compact&theme=chartreuse-dark"/>
+  </a>
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aunjum)
